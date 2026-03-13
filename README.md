@@ -9,8 +9,6 @@ I enjoy combining **real-world AI systems** with **controlled empirical experime
 ## 🔬 Current Focus
 
 * **Transformer training dynamics**
-* How **tokenization affects learning behaviour**
-* **Attention patterns and interpretability**
 * Running controlled **nanoGPT experiments**
 
 Recent experiment:
@@ -26,38 +24,30 @@ Recent experiment:
 
 ---
 
-## 🧪 Experiments
-
-* Tokenization effects in **nanoGPT training**
-* Small-scale **transformer interpretability experiments**
-* Memory architectures for **agent systems**
-
----
-
 ## 🧰 Tech Stack
 
-**Languages**
+**Languages**<br>
 Python • SQL • C++
 
-**ML & LLM Frameworks**
+**ML & LLM Frameworks**<br>
 PyTorch • Hugging Face Transformers • LangChain • LangGraph
 
-**Model Adaptation**
+**Model Adaptation**<br>
 LoRA • PEFT
 
-**Retrieval & Databases**
+**Retrieval & Databases**<br>
 FAISS • Elasticsearch • Pinecone • MongoDB
 
-**Agent Memory & LLM Platforms**
+**Agent Memory & LLM Platforms**<br>
 Mem0 • OpenAI • Amazon Bedrock • Gemini • Claude
 
-**Observability & Safety**
+**Observability & Safety**<br>
 Langfuse • NeMo Guardrails • Kibana
 
-**Backend & Infrastructure**
+**Backend & Infrastructure**<br>
 FastAPI • Docker • Amazon Web Services • Microsoft Azure
 
-**Data & Numerical Computing**
+**Data & Numerical Computing**<br>
 NumPy • pandas
 
 ---
@@ -66,7 +56,7 @@ NumPy • pandas
 
 Dual Degree (B.Tech + M.Tech), **IIT Bombay**
 
-Previously worked on **GenAI systems and LLM-powered applications**.
+Previously worked on **production-grade Agentic systems and LLM-driven applications**.
 
 ---
 
