@@ -62,8 +62,7 @@ Previously worked on **production-grade Agentic systems and LLM-driven applicati
 
 ## 📫 Connect
 
-LinkedIn
-[https://linkedin.com/in/mohd-zakir-hussain](https://linkedin.com/in/mohd-zakir-hussain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Zakir%20Hussain-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohd-zakir-hussain)
 
 ---
 
