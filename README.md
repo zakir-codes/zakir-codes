@@ -52,15 +52,9 @@ NumPy • pandas
 
 ---
 
-## 📍 Background
+## 📍 Background and Connect
 
 Dual Degree (B.Tech + M.Tech), **IIT Bombay**
-
-Previously worked on **production-grade Agentic systems and LLM-driven applications**.
-
----
-
-## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Zakir%20Hussain-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohd-zakir-hussain)
 
